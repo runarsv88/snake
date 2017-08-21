@@ -1,2 +1,2 @@
 # snake
-Just another (failed) snake
+Just another (failed) snake in development.
