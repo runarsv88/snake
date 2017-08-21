@@ -4,6 +4,7 @@ from enum import Enum
 import time
 from random import randint
 
+
 class Direction(Enum):
     UP = 'k'
     DOWN = 'j' 
